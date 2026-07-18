@@ -1,7 +1,7 @@
 # Virtual-Machine-Installation💻🛡️
 
 ## Objective
-The objective of part 1 of the virtual cybersecurity homelab project is to demonstrate basic installation of a type 2 hypervisor, followed by installation of a virtual operating system(Kali Linux) on type 1 hypervisor(Hyper-v) running Windows 11 as the main operating system.
+The objective of part 1 "virtual cybersecurity homelab" is to demonstrate basic installation of a type 2 hypervisor(VirtualBox), followed by installation of a virtual operating system(Kali Linux) on a type 1 hypervisor(Hyper-v) running Windows 11 as the main operating system.
 
 **P.S.A** -The project was broken into 3 parts in order to avoid overwhelming the viewers with information.
 <br>
