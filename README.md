@@ -19,12 +19,12 @@ The objective of part 1 of the virtual cybersecurity homelab project is to demon
 <br>
 
 ## Index
-|Reference #    |                  Content              |
+|Step/Reference #    |                  Content              |
 |--------------|----------------------------------------|
-|Ref.1         | System Requirements  |
-|Ref.2         | Defense in Depth                    |
-|Ref.3         | Downloading & Installing Softwares Needed                          |
-|Ref.4         | describe                             |
+|Step 1/Ref.1         | System Requirements  |
+|Step 2/Ref.2         | Defense in Depth                    |
+|Step 3/Ref.3         | Downloading & Installing Softwares Needed                          |
+|Step 4/Ref.4         | describe                             |
 <br>
 
 <br>
