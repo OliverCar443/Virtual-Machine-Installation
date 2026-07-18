@@ -18,7 +18,7 @@ The objective of part 1 of the virtual cybersecurity homelab project is to demon
 - Kali Linux
 <br>
 
-## Steps
+## Index
 |Reference #    |                  Content              |
 |--------------|----------------------------------------|
 |Ref.1         | System Requirements  |
