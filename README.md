@@ -10,6 +10,7 @@ The objective of part 1 "virtual cybersecurity homelab" is to demonstrate basic 
 ## Skills Learned
 
 - **Operating System Basics:** how OS installation works, partitions, system resource requirements, and user setup.
+  
 - **Virtualization Concepts:** Built and managed a virtualized cybersecurity lab using VMware/VirtualBox/Hyper-V based on multiple security learning objectives.
   
 <br>
