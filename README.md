@@ -23,15 +23,15 @@ The objective of part 1 "virtual cybersecurity homelab" is to demonstrate basic 
 <br>
 
 ## Index
-|Step/Reference #    |                  Content              |
-|--------------|----------------------------------------|
-|Step. 1       | URL Scanner (Layered Security)  |
-|Step. 2       | Verification & VB Download                  |
-|Step. 3       | Checksum                          |
-|Step. 4       | File Malware Scan                           |
-|Step. 5       | Download Kali                           |
-|Step. 6       | Install Kali                           |
-|Step .7       | Loading Kali into VirtualBox              |
+|Step/Reference #    |                  Content               |
+|--------------|----------------------------------------------|
+|Step. 1       | URL Scanner (Layered Security)               |
+|Step. 2       | Virtualization Verification & VB Download    |
+|Step. 3       | File Checksum                                |
+|Step. 4       | File Integrity Scan                          |
+|Step. 5       | Install VirtualBox                           |
+|Step. 6       | Download Kali                                |
+|Step. 7       | Loading OS(Kali) into VirtualBox             |
 
 <br>
 
@@ -52,7 +52,7 @@ Checksum: verifies the file's identity and integrity.
 
 <br>
 
-**Step 3 - Checksum**
+**Step 3 - File Checksum**
 
 Checksum: verifies the file's identity and integrity.
 - Is this the exact file the software publisher intended to distribute?
@@ -60,7 +60,7 @@ Checksum: verifies the file's identity and integrity.
 
 <br>
 
-**Step 4 - File Malware Scan**
+**Step 4 - File Integrity Scan**
 
 VirusTotal - evaluates the file itself using threat intelligence and malware detection.
 - Has anyone else seen this file?
@@ -71,16 +71,16 @@ Together, these provide a layered assessment:
 
 <br>
 
-**Step 5 - Downloading Kali**
+**Step 5 - Install VirtualBox**
 
 
 <br>
 
-**Step 6 - Installing Kali**
+**Step 6 - Download Kali**
 
 <br>
 
-**Step 7 - Loading Kali Into VirtualBox**
+**Step 7 - Loading OS(Kali) Into VirtualBox**
 
 <br>
 
