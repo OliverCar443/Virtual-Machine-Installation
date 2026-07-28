@@ -24,42 +24,42 @@ The objective of part 1 "virtual cybersecurity homelab" is to demonstrate basic 
 ## Index
 |Step/Reference #    |                  Content              |
 |--------------|----------------------------------------|
-|Step $$\color{#00FF00}1$$       | Layered Security (URL Scanner)  |
-|Step $$\color{#00FF00}2$$       | Verification & VB Download                  |
-|Step $$\color{#00FF00}3$$       | Checksum                          |
-|Step $$\color{#00FF00}4$$       | File Malware Scan                           |
-|Step $$\color{#00FF00}5$$       | Download Kali                           |
-|Step $$\color{#00FF00}6$$       | Install Kali                           |
-|Step $$\color{#00FF00}7$$       | Loading Kali into VirtualBox              |
+|Step. 1       | URL Scanner (Layered Security)  |
+|Step. 2       | Verification & VB Download                  |
+|Step. 3       | Checksum                          |
+|Step. 4       | File Malware Scan                           |
+|Step. 5       | Download Kali                           |
+|Step. 6       | Install Kali                           |
+|Step .7       | Loading Kali into VirtualBox              |
 
 <br>
 
 ## Project
-**Step $$\color{#00FF00}1$$. Layered Security (URL Scan)**
+**Step 1 - URL Scan (Layered Security)**
 
-URL scan - evaluates the source.
+URL scan: evaluates the source.
 - Is Virtualbox.com known for phishing or malware?
 
 
 <br>
 
-**Step $$\color{#00FF00}2$$. Virtualization Verification & VirtualBox Download**
+**Step 2 - Virtualization Verification & VirtualBox Download**
 
-Checksum - verifies the file's identity and integrity.
+Checksum: verifies the file's identity and integrity.
 - Is this the exact file the software publisher intended to distribute?
 - Has it been changed?
 
 <br>
 
-**Step $$\color{#00FF00}3$$. Checksum**
+**Step 3 - Checksum**
 
-Checksum - verifies the file's identity and integrity.
+Checksum: verifies the file's identity and integrity.
 - Is this the exact file the software publisher intended to distribute?
 - Has it been changed?
 
 <br>
 
-**Step $$\color{#00FF00}4$$.File Malware Scan**
+**Step 4 - File Malware Scan**
 
 VirusTotal - evaluates the file itself using threat intelligence and malware detection.
 - Has anyone else seen this file?
@@ -70,16 +70,16 @@ Together, these provide a layered assessment:
 
 <br>
 
-**Step $$\color{#00FF00}5$$. Downloading Kali**
+**Step 5 - Downloading Kali**
 
 
 <br>
 
-**Step $$\color{#00FF00}6$$. Installing Kali**
+**Step 6 - Installing Kali**
 
 <br>
 
-**Step $$\color{#00FF00}7$$. Loading Kali Into VirtualBox**
+**Step 7 - Loading Kali Into VirtualBox**
 
 <br>
 
