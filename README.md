@@ -56,7 +56,6 @@ URL scan: evaluates the source.
 
 
 
-
 **Step 2 - Virtualization Verification & VirtualBox Download**
 
 Checksum: verifies the file's identity and integrity.
@@ -65,8 +64,10 @@ Checksum: verifies the file's identity and integrity.
 <img width="610" height="820" alt="VM LAB P1- 2" src="https://github.com/user-attachments/assets/2b7a8833-a709-44bc-b91a-1afd4f8790b2" />
 
 
+
 <br>
 <br>
+
 
 **Step 3 - File Checksum**
 
@@ -76,8 +77,10 @@ Checksum: verifies the file's identity and integrity.
 <img width="610" height="820" alt="VM LAB P1- 3" src="https://github.com/user-attachments/assets/226a9178-485c-49e1-a48f-8b08c0f1d097" />
 
 
+
 <br>
 <br>
+
 
 **Step 4 - File Integrity Scan**
 
@@ -92,20 +95,32 @@ VirusTotal - evaluates the file itself using threat intelligence and malware det
 <br>
 <br>
 
+
 **Step 5 - Install VirtualBox**
 Together, the first three steps provide a layered assessment on any downloaded file. Knowing that my firewall and anti-virus are some of my strongest security tools for my system, before downloading or installing a file, i would normally take extra security measures when i download from a software source that isn't commonly known.
 <img width="610" height="820" alt="VM LAB P1- 5" src="https://github.com/user-attachments/assets/bf145338-8a3b-45df-bccd-5949ca11c47e" />
 
+
+
 <br>
+<br>
+
 
 **Step 6 - Download Kali**
 <br>
 <img width="610" height="820" alt="VM LAB P1- 6" src="https://github.com/user-attachments/assets/fdc64d23-501c-4f29-85e3-b08a298bb9cf" />
 
+
+
 <br>
 <br>
 
+
 **Step 7 - Loading OS(Kali) Into VirtualBox**
+<br>
+<img width="610" height="820" alt="VM LAB P1- 7" src="https://github.com/user-attachments/assets/8c5365ac-0b06-49d0-b6ab-9c0d8e5347ce" />
+
+
 
 <br>
 
