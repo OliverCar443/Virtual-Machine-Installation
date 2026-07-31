@@ -62,9 +62,6 @@ URL scan: evaluates the source.
 
 **Step 2 - Virtualization Verification & VirtualBox Download**
 
-Checksum: verifies the file's identity and integrity.
-- Is this the exact file the software publisher intended to distribute?
-- Has it been changed?
 <img width="610" height="820" alt="VM LAB P1- 2" src="https://github.com/user-attachments/assets/2b7a8833-a709-44bc-b91a-1afd4f8790b2" />
 
 
