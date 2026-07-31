@@ -51,6 +51,10 @@ URL scan: evaluates the source.
 - Is Virtualbox.com known for phishing or malware?
 <img width="610" height="820" alt="VM LAB P1- 1" src="https://github.com/user-attachments/assets/1e29c9e7-2f7d-4459-8ad1-1e4faae237df" />
 
+
+
+
+<br>
 <br>
 <br>
 
@@ -65,8 +69,11 @@ Checksum: verifies the file's identity and integrity.
 
 
 
+
 <br>
 <br>
+<br>
+
 
 
 **Step 3 - File Checksum**
@@ -80,6 +87,8 @@ Checksum: verifies the file's identity and integrity.
 
 <br>
 <br>
+<br>
+
 
 
 **Step 4 - File Integrity Scan**
@@ -94,38 +103,43 @@ VirusTotal - evaluates the file itself using threat intelligence and malware det
 
 <br>
 <br>
+<br>
 
 
 **Step 5 - Install VirtualBox**
-Together, the first three steps provide a layered assessment on any downloaded file. Knowing that my firewall and anti-virus are some of my strongest security tools for my system, before downloading or installing a file, i would normally take extra security measures when i download from a software source that isn't commonly known.
+
 <img width="610" height="820" alt="VM LAB P1- 5" src="https://github.com/user-attachments/assets/bf145338-8a3b-45df-bccd-5949ca11c47e" />
 
 
 
 <br>
 <br>
+<br>
 
 
 **Step 6 - Download Kali**
-<br>
+
 <img width="610" height="820" alt="VM LAB P1- 6" src="https://github.com/user-attachments/assets/fdc64d23-501c-4f29-85e3-b08a298bb9cf" />
 
 
 
 <br>
 <br>
+<br>
 
 
 **Step 7 - Loading OS(Kali) Into VirtualBox**
-<br>
+
 <img width="610" height="820" alt="VM LAB P1- 7" src="https://github.com/user-attachments/assets/8c5365ac-0b06-49d0-b6ab-9c0d8e5347ce" />
 
 
-
+<br>
 <br>
 
 ## Conclusion
+In conclusion, this lab provided hands-on experience in setting up a basic virtual cybersecurity environment. It improved my understanding of virtualization and the importance of using isolated systems for cybersecurity testing. Overall, the lab built a strong foundation for future cybersecurity learning and practice.
 
+Explore Part 2 Of This Lab: <a href="https://github.com/OliverCar443/Virtual-Machine-Installation/blob/main/README.md">VM Environment & Network Configuration</a>
 <br>
 
 <br>
